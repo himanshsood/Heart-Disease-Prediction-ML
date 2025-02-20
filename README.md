@@ -63,5 +63,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please reach out to [your-email\@example.com] or visit [your GitHub profile link].
+For any inquiries, please reach out to himanshsood311@gmail.com 
 
